@@ -1,0 +1,7 @@
+*.zip
+*.rar
+*.jar
+/.idea/*
+/web/*
+/out/*
+*.class
